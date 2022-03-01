@@ -18,3 +18,4 @@ suma = operacion_suma()
 print(f"La suma es = {suma}")
 
 print("Juan Jose es bironcha")
+print("Camilo es una bichota")
